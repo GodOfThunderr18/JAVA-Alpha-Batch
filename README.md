@@ -1,6 +1,6 @@
 # Java DSA Practice (Apna College - Alpha Course)
 
-This repository contains my complete **Data Structures and Algorithms (DSA)** practice in **Java**, based on the **Alpha DSA Course by Apna College** (taught by Kunal Kushwaha).
+This repository contains my complete **Data Structures and Algorithms (DSA)** practice in **Java**, based on the **Alpha DSA Course by Apna College** (taught by Shradha Khapra).
 
 All code is organized by topic and follows the structure and progression of the course, making it easy to revise and reference.
 
